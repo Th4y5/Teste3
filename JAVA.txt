@@ -1,2 +1,2 @@
 String nome= "Thays";
-System.out.printnl("Hello" + nome +"!" );
+System.out.println("Hello" + nome + "Bom dia" );
